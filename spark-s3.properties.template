@@ -1,0 +1,6 @@
+spark.master=local
+spark.app.name=Simple Application
+fs.s3.impl=org.apache.hadoop.fs.s3native.NativeS3FileSystem
+fs.s3n.awsAccessKeyId=AKIAIFXFJG63KWYEK4BQ
+fs.s3n.awsSecretAccessKey=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
+        
